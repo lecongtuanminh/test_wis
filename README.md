@@ -15,4 +15,5 @@ Bài 7: Tạo trò chơi “Cows and Bulls” với cách thức hoạt động 
 1.	Tạo ngẫu nhiên một con số có 4 chữ số. Yêu cầu người chơi đoán con số đó.
 2.	Khi người chơi đoán đúng một chữ số nào đó ở đúng vị trí, họ sẽ có một “Cow”. Với mỗi chữ số sai, họ sẽ có một “Bull”.
 3.	Mỗi khi người dùng đưa ra phỏng đoán, hãy cho họ biết họ có bao nhiêu “Cows” và “Bulls”. Khi người dùng đoán đúng số, trò chơi kết thúc. Theo dõi số lần đoán mà người dùng thực hiện trong suốt trò chơi và họ biết khi kết thúc.	
+
 Bài 8: Viết một chương trình để chuyển đổi số nguyên N sang hệ cơ số B (2 <= B <= 32) bất kỳ.
